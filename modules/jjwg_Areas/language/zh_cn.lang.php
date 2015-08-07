@@ -1,0 +1,43 @@
+<?php
+
+$mod_strings['LBL_ASSIGNED_TO_ID'] = '负责用户';
+$mod_strings['LBL_ASSIGNED_TO_NAME'] = '负责人';
+$mod_strings['LBL_ID'] = '编号';
+$mod_strings['LBL_DATE_ENTERED'] = '创建日期';
+$mod_strings['LBL_DATE_MODIFIED'] = '修改日期';
+$mod_strings['LBL_MODIFIED'] = '修改人';
+$mod_strings['LBL_MODIFIED_ID'] = '修改人编号';
+$mod_strings['LBL_MODIFIED_NAME'] = '修改人姓名';
+$mod_strings['LBL_CREATED'] = '创建人';
+$mod_strings['LBL_CREATED_ID'] = '创建人编号';
+$mod_strings['LBL_DESCRIPTION'] = '说明';
+$mod_strings['LBL_DELETED'] = '已删除';
+$mod_strings['LBL_NAME'] = '名称';
+$mod_strings['LBL_CREATED_USER'] = '创建人';
+$mod_strings['LBL_MODIFIED_USER'] = '修改人';
+$mod_strings['LBL_LIST_NAME'] = '名称';
+$mod_strings['LBL_LIST_FORM_TITLE'] = 'Areas List';
+$mod_strings['LBL_MODULE_NAME'] = 'Areas';
+$mod_strings['LBL_MODULE_TITLE'] = 'Areas';
+$mod_strings['LBL_HOMEPAGE_TITLE'] = 'My Areas';
+$mod_strings['LNK_NEW_RECORD'] = 'Create Areas';
+$mod_strings['LNK_LIST'] = 'View Areas';
+$mod_strings['LNK_IMPORT_JJWG_AREAS'] = 'Import Areas';
+$mod_strings['LBL_SEARCH_FORM_TITLE'] = 'Search Areas';
+$mod_strings['LBL_HISTORY_SUBPANEL_TITLE'] = '查看历史记录';
+$mod_strings['LBL_ACTIVITIES_SUBPANEL_TITLE'] = 'Activities';
+$mod_strings['LBL_JJWG_AREAS_SUBPANEL_TITLE'] = 'Areas';
+$mod_strings['LBL_NEW_FORM_TITLE'] = 'New Areas';
+$mod_strings['LBL_CITY'] = '城市';
+$mod_strings['LBL_STATE'] = '省份';
+$mod_strings['LBL_COUNTRY'] = '国家';
+$mod_strings['LBL_COORDINATES'] = 'Coordinates';
+$mod_strings['LBL_LIST_ASSIGNED_USER'] = 'User';
+$mod_strings['LBL_AREA_MAP'] = 'Area Map';
+
+$mod_strings['LBL_AREA_EDIT_TITLE'] = 'Area Creation Instructions:';
+$mod_strings['LBL_AREA_EDIT_DESC_1'] = 'Left click on the map, in a clockwise motion, to create marker points for the area.';
+$mod_strings['LBL_AREA_EDIT_DESC_2'] = 'Click on the first marker point to close the polygon area.';
+$mod_strings['LBL_AREA_EDIT_RESET'] = 'Reset';
+$mod_strings['LBL_AREA_EDIT_USE_AREA_COORDINATES'] = 'Use Area Coordinates';
+$mod_strings['LBL_AREA_EDIT_COORDINATE_RESULTS'] = 'Coordinate Results (lng,lat,elv):';
